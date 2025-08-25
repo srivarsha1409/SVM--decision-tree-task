@@ -1,6 +1,6 @@
 
 
-# 🌸 Iris Flower Classifier & Student Exam Predictor (Streamlit + Pickle)
+# 🌸 Iris Flower Classifier & Student Exam Predictor
 
 An interactive web app to **classify iris flowers** and **predict student exam outcomes** using machine learning.
 The app performs EDA, trains a **Decision Tree Classifier**, evaluates metrics, and provides predictions via a Streamlit interface.
@@ -115,12 +115,8 @@ The app allows you to:
 
 ---
 
-## 🚀 Next Steps
 
-* Add **hyperparameter tuning** for better model performance
-* Include more **ML algorithms** for comparison
-* Deploy on **Hugging Face Spaces** or **Streamlit Cloud**
 
----
+
 
 
