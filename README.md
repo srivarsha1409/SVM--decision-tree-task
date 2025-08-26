@@ -115,6 +115,10 @@ The app allows you to:
 
 ---
 
+## App Preview
+<img width="630" height="497" alt="image" src="https://github.com/user-attachments/assets/6452fc39-a045-431c-a61d-4d50a40940c7" />
+
+
 
 
 
